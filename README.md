@@ -12,5 +12,5 @@ After parse
 
 json[@"key"] is [NSNull null], after use this category, json[@"key"] will be nil.
 
-I'm just modifing the code below:
+I'm just modifying the code below:
 https://github.com/doskoi
